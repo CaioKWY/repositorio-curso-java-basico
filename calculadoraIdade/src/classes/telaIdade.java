@@ -133,6 +133,7 @@ public class telaIdade extends javax.swing.JFrame {
         //int anoAtual2 = dataAtual.getYear();
         lblAnoSistema.setText(currentYear);
         
+        
     }//GEN-LAST:event_btnCalcularActionPerformed
 
     /**
